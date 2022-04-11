@@ -64,6 +64,6 @@
     "node": ">=14.0.0"
   },
   "scripts": {
-    "prepare": "npm install && make build-all"
+    "prepare": "make build-all"
   }
 }
