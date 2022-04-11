@@ -24,8 +24,8 @@
       "default": "./lib/index.js"
     },
     "./wasm": {
-      "default": "./lib/secp256k1.wasm",
-      "browser": "./lib/secp256k1.wasm"
+      "browser": "./lib/secp256k1.wasm",
+      "default": "./lib/secp256k1.wasm"
     }
   },
   "browser": {
